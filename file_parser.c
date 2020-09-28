@@ -2,10 +2,6 @@
  *  file_parser.c
  *  Contains functions to parse input file and create
  *  code memory, you can edit this file to add new instructions
- *
- *  Author :
- *  Gaurav Kothari (gkothar1@binghamton.edu)
- *  State University of New York, Binghamton
  */
 #include <stdio.h>
 #include <stdlib.h>
